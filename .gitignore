@@ -1,3 +1,5 @@
 **/*.amltmp
 .ipynb_aml_checkpoints/
 .amlignore
+venv/
+.ipynb_checkpoints/
